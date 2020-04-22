@@ -1,12 +1,9 @@
-# responsive UI
+# responsive UI mix of patterns
 
-From FilledStacks tutorial on youtube
+a combination of FilledStacks device type + orientation patter and Mangirdas Kazlauskas abstract factory pattern
 
-### Part 1: Grabbing dimensions
+### One pattern for non-OS specific widgets wrapped in a provider. One abstract factory pattern for OS-specific widgets
 
-![Image of dimensions](https://github.com/WiltonHotz/Flutter-responsive_ui/blob/master/local_widget_size.JPG)
+![Image of mixpatterns](https://github.com/WiltonHotz/Flutter-responsive_ui_mix_patterns/blob/master/abstract_factory.gif)
 
-### Part 2: Making design responsive
-
-![Image of devices](https://github.com/WiltonHotz/Flutter-responsive_ui/blob/master/responsive_ui_drawer.gif)
 
